@@ -1,6 +1,8 @@
 # Sommaire
 
-[Read me](README.md)
+# Read Me
+
+- [Read me](README.md)
 
 # 2nde
 
