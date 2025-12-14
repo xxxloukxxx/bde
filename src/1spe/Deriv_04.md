@@ -2,76 +2,208 @@
 
 <!-- toc -->
 
-## Tangente à une fonction polynomiale ⭐
-
-**Barème : 3 points**
-
-Soit la fonction $f(x)=x^2$.
-
-1. Calculer la dérivée $f'(x)$. (1 point)
-2. Calculer $f'(2)$. (1 point)
-3. Déterminer l’équation de la tangente à la courbe de $f$ au point d’abscisse $2$. (1 point)
-
 ---
 
-## Tangente en un point (1) ⭐⭐
-
-**Barème : 4 points**
-
-Soit $f(x)=x^2$.
-
-1. Calculer $f^{\prime}(x)$. (1 point)
-2. Calculer $f^{\prime}(1)$. (1 point)
-3. Déterminer l’équation de la tangente en $x=1$. (2 points)
-
----
-
-## Tangente en un point (2) ⭐⭐
-
-**Barème : 4 points**
-
-Soit la fonction $f(x)=x^3-2x$.
-
-1. Calculer la dérivée $f'(x)$. (1,5 point)
-2. Calculer $f'(1)$. (1 point)
-3. Calculer $f(1)$. (0,5 point)
-4. Déterminer l’équation de la tangente à la courbe de $f$ au point d’abscisse $1$. (1 point)
-
----
-
-## Tangente à partir d’une fonction affine ⭐
-
-**Barème : 3 points**
+## Tangente à partir d’une fonction affine :star: :star:
 
 Soit $f(x)=3x-4$.
 
-1. Calculer $f^{\prime}(x)$. (1 point)
-2. Donner l’équation de la tangente en $x=2$. (2 points)
+1. Calculer $f^{\prime}(x)$.
+2. Donner l’équation de la tangente à la courbe de $f$ au point d’abscisse $2$.
 
 ---
 
-## Interprétation géométrique ⭐⭐⭐
+## Tangente à une fonction polynomiale :star:
 
-**Barème : 5 points**
+Soit la fonction $f(x)=x^2$.
 
-La courbe représentative d’une fonction $f$ est donnée (description : une courbe lisse passant par le point $(1;2)$ avec une tangente de pente positive).
-
-1. Expliquer le lien entre $f^{\prime}(1)$ et la pente de la tangente. (2 points)
-2. Donner une interprétation du signe de $f^{\prime}(1)$. (1 point)
-3. Écrire l’équation de la tangente si $f^{\prime}(1)=3$. (2 points)
+1. Calculer la dérivée $f'(x)$.
+2. Calculer $f'(2)$.
+3. Déterminer l’équation de la tangente à la courbe de $f$ au point d’abscisse $2$.
 
 ---
 
-## Tangente et interprétation géométrique ⭐⭐⭐
+## Tangente en un point (1) :star: :star:
 
-**Barème : 5 points**
+Soit $f(x)=x^2$.
+
+1. Calculer $f^{\prime}(x)$.
+2. Calculer $f^{\prime}(1)$.
+3. Déterminer l’équation de la tangente à la courbe de $f$ au point d’abscisse $1$.
+
+---
+
+## Tangente en un point (2) :star: :star:
+
+Soit la fonction $f(x)=x^3-2x$.
+
+1. Calculer la dérivée $f'(x)$.
+2. Calculer $f'(1)$.
+3. Calculer $f(1)$.
+4. Déterminer l’équation de la tangente à la courbe de $f$ au point d’abscisse $1$.
+
+---
+
+## Tangente à une fonction produit (1) :star: :star:
+
+Soit la fonction $f(x)=(2x+1)(x^2-3)$.
+
+1. Identifier les fonctions $u$ et $v$ telles que $f=u\times v$.
+2. Calculer la dérivée $f'(x)$.
+3. Calculer $f'(1)$.
+4. Calculer $f(1)$.
+5. Déterminer l’équation de la tangente à la courbe de $f$ au point d’abscisse $1$.
+
+---
+
+## Tangente à une fonction quotient affine :star: :star:
+
+Soit la fonction $f(x)=\dfrac{3x+2}{x+1}$ définie sur $\mathbb{R}\setminus\{-1\}$.
+
+1. Calculer la dérivée $f'(x)$.
+2. Calculer $f'(0)$.
+3. Calculer $f(0)$.
+4. Déterminer l’équation de la tangente à la courbe de $f$ au point d’abscisse $0$.
+
+---
+
+## Tangente à une fonction produit et somme :star: :star: :star:
+
+Soit la fonction $f(x)=(x+1)(x^2-2x+3)$.
+
+1. Calculer la dérivée $f'(x)$.
+2. Calculer $f'(1)$.
+3. Calculer $f(1)$.
+4. Déterminer l’équation de la tangente à la courbe de $f$ au point d’abscisse $1$.
+
+---
+
+## Tangente à une fonction produit (2) :star: :star: :star:
+
+Soit la fonction $f(x)=x(x^2+1)$.
+
+1. Écrire $f$ comme un produit de deux fonctions.
+2. Calculer $f'(x)$.
+3. Calculer $f'(0)$.
+4. Déterminer l’équation de la tangente à la courbe de $f$ au point d’abscisse $0$.
+
+---
+
+## Tangente à une fonction produit (3) :star: :star: :star:
+
+Soit la fonction $f(x)=(x-2)(3x^2+1)$.
+
+1. Calculer la dérivée $f'(x)$.
+2. Calculer $f'(2)$.
+3. Calculer $f(2)$.
+4. Déterminer l’équation de la tangente à la courbe de $f$ au point d’abscisse $2$.
+
+---
+
+## Tangente à une fonction quotient (1) :star: :star: :star:
+
+Soit la fonction $f(x)=\dfrac{x^2+1}{x}$ définie sur $\mathbb{R}^*$.
+
+1. Identifier les fonctions $u$ et $v$ telles que $f=\dfrac{u}{v}$.
+2. Calculer la dérivée $f'(x)$.
+3. Calculer $f'(1)$.
+4. Calculer $f(1)$.
+5. Déterminer l’équation de la tangente à la courbe de $f$ au point d’abscisse $1$.
+
+---
+
+## Tangente à une fonction quotient (2) :star: :star: :star:
+
+Soit la fonction $f(x)=\dfrac{2x-1}{x^2+1}$.
+
+1. Préciser l’ensemble de définition de $f$.
+2. Calculer la dérivée $f'(x)$.
+3. Calculer $f'(0)$.
+4. Calculer $f(0)$.
+5. Déterminer l’équation de la tangente à la courbe de $f$ au point d’abscisse $0$.
+
+---
+
+## Interprétation géométrique :star: :star: :star:
 
 La courbe représentative d’une fonction $f$ est donnée  
-(description : courbe d’une fonction du second degré, à branches tournées vers le haut, admettant un minimum pour $x=1$).
+(description : une courbe lisse passant par le point $(1;2)$ avec une tangente de pente positive).
 
+1. Expliquer le lien entre $f^{\prime}(1)$ et la pente de la tangente en ce point.
+2. Donner une interprétation du signe de $f^{\prime}(1)$.
+3. Écrire l’équation de la tangente à la courbe de $f$ au point d’abscisse $1$ si $f^{\prime}(1)=3$.
+
+---
+
+## Tangente et extremum :star: :star: :star:
+
+La courbe représentative d’une fonction $f$ est donnée  
+(description : courbe d’une fonction du second degré, à branches tournées vers le haut, admettant un minimum pour $x=1$).  
 On admet que $f'(1)=0$ et que $f(1)=-3$.
 
-1. Expliquer pourquoi la tangente à la courbe en $x=1$ est horizontale. (1,5 point)
-2. Donner le coefficient directeur de la tangente en $x=1$. (1 point)
-3. Déterminer l’équation de la tangente à la courbe de $f$ en $x=1$. (2 points)
-4. Donner une interprétation graphique de cette tangente. (0,5 point)
+1. Expliquer pourquoi la tangente à la courbe de $f$ au point d’abscisse $1$ est horizontale.
+2. Donner le coefficient directeur de cette tangente.
+3. Déterminer l’équation de la tangente à la courbe de $f$ au point d’abscisse $1$.
+4. Donner une interprétation graphique de cette tangente.
+
+---
+
+## Tangente à une fonction rationnelle :star: :star: :star:
+
+Soit la fonction $f(x)=\dfrac{1}{x}$ définie sur $]0;+\infty[$.
+
+1. Calculer la dérivée $f'(x)$.
+2. Calculer $f'(1)$.
+3. Calculer $f(1)$.
+4. Déterminer l’équation de la tangente à la courbe de $f$ au point d’abscisse $1$.
+5. Préciser si la tangente est croissante ou décroissante.
+
+---
+
+## Tangente et lecture graphique :star: :star: :star: :star:
+
+On considère la courbe représentative d’une fonction $f$  
+(description : courbe décroissante puis croissante, admettant un minimum pour $x=1$).
+
+1. Indiquer le signe de $f'(x)$ pour $x\lt 1$.
+2. Indiquer le signe de $f'(x)$ pour $x\gt 1$.
+3. Donner la valeur de $f'(1)$.
+4. Décrire la position de la tangente à la courbe au point d’abscisse $1$.
+5. Écrire l’équation de cette tangente si $f(1)=-3$.
+
+---
+
+## Tangente à une fonction quotient (3) :star: :star: :star: :star:
+
+Soit la fonction $f(x)=\dfrac{x^3}{x^2+1}$.
+
+1. Identifier les fonctions $u$ et $v$.
+2. Calculer la dérivée $f'(x)$.
+3. Calculer $f'(1)$.
+4. Calculer $f(1)$.
+5. Déterminer l’équation de la tangente à la courbe de $f$ au point d’abscisse $1$.
+
+---
+
+## Tangente et choix du point :star: :star: :star: :star:
+
+Soit la fonction $f(x)=\dfrac{(x+1)(x-2)}{x}$.
+
+1. Donner l’ensemble de définition de $f$.
+2. Calculer la dérivée $f'(x)$.
+3. Calculer $f'(2)$.
+4. Calculer $f(2)$.
+5. Déterminer l’équation de la tangente à la courbe de $f$ au point d’abscisse $2$.
+
+---
+
+## Tangente et analyse complète :star: :star: :star: :star:
+
+Soit la fonction $f(x)=\dfrac{x(x^2-1)}{x^2+1}$.
+
+1. Donner l’ensemble de définition de $f$.
+2. Calculer la dérivée $f'(x)$.
+3. Calculer $f'(1)$.
+4. Calculer $f(1)$.
+5. Déterminer l’équation de la tangente à la courbe de $f$ au point d’abscisse $1$.
+6. Préciser si la tangente est croissante ou décroissante.
