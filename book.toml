@@ -30,7 +30,7 @@ smart-punctuation = true
 mathjax-support = false
 no-section-label = true
 copy-fonts = true
-additional-css = ["./assets/css/custom.css", "./mdbook-admonish.css"]
+additional-css = ["./assets/css/custom.css", "./assets/css/mdbook-admonish.css"]
 additional-js = ["./assets/js/mathjax.js"]
 
 [output.html.fold]

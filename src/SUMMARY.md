@@ -1,5 +1,7 @@
 # Sommaire
 
+[Read me](README.md)
+
 # 2nde
 
 - [Proportion / évolution](./2nde/Proportion-Evolution.md)
