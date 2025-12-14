@@ -2,9 +2,11 @@
 
 <!-- toc -->
 
+## :star:
+
 ---
 
-## Tangente à partir d’une fonction affine :star: :star:
+### Tangente à partir d’une fonction affine
 
 Soit $f(x)=3x-4$.
 
@@ -13,7 +15,7 @@ Soit $f(x)=3x-4$.
 
 ---
 
-## Tangente à une fonction polynomiale :star:
+### Tangente à une fonction polynomiale
 
 Soit la fonction $f(x)=x^2$.
 
@@ -21,9 +23,9 @@ Soit la fonction $f(x)=x^2$.
 2. Calculer $f'(2)$.
 3. Déterminer l’équation de la tangente à la courbe de $f$ au point d’abscisse $2$.
 
----
+## :star: :star:
 
-## Tangente en un point (1) :star: :star:
+### Tangente en un point (1)
 
 Soit $f(x)=x^2$.
 
@@ -33,7 +35,7 @@ Soit $f(x)=x^2$.
 
 ---
 
-## Tangente en un point (2) :star: :star:
+### Tangente en un point (2)
 
 Soit la fonction $f(x)=x^3-2x$.
 
@@ -44,7 +46,7 @@ Soit la fonction $f(x)=x^3-2x$.
 
 ---
 
-## Tangente à une fonction produit (1) :star: :star:
+### Tangente à une fonction produit (1)
 
 Soit la fonction $f(x)=(2x+1)(x^2-3)$.
 
@@ -56,7 +58,7 @@ Soit la fonction $f(x)=(2x+1)(x^2-3)$.
 
 ---
 
-## Tangente à une fonction quotient affine :star: :star:
+### Tangente à une fonction quotient affine
 
 Soit la fonction $f(x)=\dfrac{3x+2}{x+1}$ définie sur $\mathbb{R}\setminus\{-1\}$.
 
@@ -65,9 +67,9 @@ Soit la fonction $f(x)=\dfrac{3x+2}{x+1}$ définie sur $\mathbb{R}\setminus\{-1\
 3. Calculer $f(0)$.
 4. Déterminer l’équation de la tangente à la courbe de $f$ au point d’abscisse $0$.
 
----
+## :star: :star: :star:
 
-## Tangente à une fonction produit et somme :star: :star: :star:
+### Tangente à une fonction produit et somme
 
 Soit la fonction $f(x)=(x+1)(x^2-2x+3)$.
 
@@ -78,7 +80,7 @@ Soit la fonction $f(x)=(x+1)(x^2-2x+3)$.
 
 ---
 
-## Tangente à une fonction produit (2) :star: :star: :star:
+### Tangente à une fonction produit (2)
 
 Soit la fonction $f(x)=x(x^2+1)$.
 
@@ -89,7 +91,7 @@ Soit la fonction $f(x)=x(x^2+1)$.
 
 ---
 
-## Tangente à une fonction produit (3) :star: :star: :star:
+### Tangente à une fonction produit (3)
 
 Soit la fonction $f(x)=(x-2)(3x^2+1)$.
 
@@ -100,7 +102,7 @@ Soit la fonction $f(x)=(x-2)(3x^2+1)$.
 
 ---
 
-## Tangente à une fonction quotient (1) :star: :star: :star:
+### Tangente à une fonction quotient (1)
 
 Soit la fonction $f(x)=\dfrac{x^2+1}{x}$ définie sur $\mathbb{R}^*$.
 
@@ -112,7 +114,7 @@ Soit la fonction $f(x)=\dfrac{x^2+1}{x}$ définie sur $\mathbb{R}^*$.
 
 ---
 
-## Tangente à une fonction quotient (2) :star: :star: :star:
+### Tangente à une fonction quotient (2)
 
 Soit la fonction $f(x)=\dfrac{2x-1}{x^2+1}$.
 
@@ -124,7 +126,7 @@ Soit la fonction $f(x)=\dfrac{2x-1}{x^2+1}$.
 
 ---
 
-## Interprétation géométrique :star: :star: :star:
+### Interprétation géométrique
 
 La courbe représentative d’une fonction $f$ est donnée  
 (description : une courbe lisse passant par le point $(1;2)$ avec une tangente de pente positive).
@@ -135,7 +137,7 @@ La courbe représentative d’une fonction $f$ est donnée
 
 ---
 
-## Tangente et extremum :star: :star: :star:
+### Tangente et extremum
 
 La courbe représentative d’une fonction $f$ est donnée  
 (description : courbe d’une fonction du second degré, à branches tournées vers le haut, admettant un minimum pour $x=1$).  
@@ -148,7 +150,7 @@ On admet que $f'(1)=0$ et que $f(1)=-3$.
 
 ---
 
-## Tangente à une fonction rationnelle :star: :star: :star:
+### Tangente à une fonction rationnelle
 
 Soit la fonction $f(x)=\dfrac{1}{x}$ définie sur $]0;+\infty[$.
 
@@ -158,9 +160,9 @@ Soit la fonction $f(x)=\dfrac{1}{x}$ définie sur $]0;+\infty[$.
 4. Déterminer l’équation de la tangente à la courbe de $f$ au point d’abscisse $1$.
 5. Préciser si la tangente est croissante ou décroissante.
 
----
+## :star: :star: :star: :star:
 
-## Tangente et lecture graphique :star: :star: :star: :star:
+### Tangente et lecture graphique
 
 On considère la courbe représentative d’une fonction $f$  
 (description : courbe décroissante puis croissante, admettant un minimum pour $x=1$).
@@ -173,7 +175,7 @@ On considère la courbe représentative d’une fonction $f$
 
 ---
 
-## Tangente à une fonction quotient (3) :star: :star: :star: :star:
+### Tangente à une fonction quotient (3)
 
 Soit la fonction $f(x)=\dfrac{x^3}{x^2+1}$.
 
@@ -185,7 +187,7 @@ Soit la fonction $f(x)=\dfrac{x^3}{x^2+1}$.
 
 ---
 
-## Tangente et choix du point :star: :star: :star: :star:
+### Tangente et choix du point
 
 Soit la fonction $f(x)=\dfrac{(x+1)(x-2)}{x}$.
 
@@ -197,7 +199,7 @@ Soit la fonction $f(x)=\dfrac{(x+1)(x-2)}{x}$.
 
 ---
 
-## Tangente et analyse complète :star: :star: :star: :star:
+### Tangente et analyse complète
 
 Soit la fonction $f(x)=\dfrac{x(x^2-1)}{x^2+1}$.
 
