@@ -1,9 +1,12 @@
 # Définir le taux d’accroissement et le nombre dérivé
+
 <!-- toc -->
 
-## Calcul d’un taux d’accroissement simple ⭐
+## :star:
 
-**Barème : 3 points**
+---
+
+### Calcul d’un taux d’accroissement simple
 
 Soit la fonction $f$ définie par $f(x)=3x+2$.
 
@@ -13,9 +16,7 @@ Soit la fonction $f$ définie par $f(x)=3x+2$.
 
 ---
 
-## Calculer un taux d’accroissement ⭐
-
-**Barème : 3 points**
+### Calculer un taux d’accroissement
 
 Soit la fonction $f$ définie par $f(x)=2x^2-x+1$.
 
@@ -23,11 +24,11 @@ Soit la fonction $f$ définie par $f(x)=2x^2-x+1$.
 2. Calculer le taux d’accroissement de $f$ entre $1$ et $3$. (1 point)
 3. Donner une interprétation du résultat obtenu. (1 point)
 
+## :star: :star:
+
 ---
 
-## Nombre dérivé par définition ⭐⭐
-
-**Barème : 4 points**
+### Nombre dérivé par définition
 
 Soit la fonction $f(x)=x^2$.
 
@@ -38,9 +39,7 @@ Soit la fonction $f(x)=x^2$.
 
 ---
 
-## Lien entre taux d’accroissement et dérivée ⭐⭐
-
-**Barème : 4 points**
+### Lien entre taux d’accroissement et dérivée
 
 Soit la fonction $f(x)=3x+2$.
 
@@ -50,9 +49,7 @@ Soit la fonction $f(x)=3x+2$.
 
 ---
 
-## Taux d’accroissement sur un intervalle ⭐⭐
-
-**Barème : 4 points**
+### Taux d’accroissement sur un intervalle
 
 Soit la fonction $f(x)=x^2$.
 
@@ -62,9 +59,7 @@ Soit la fonction $f(x)=x^2$.
 
 ---
 
-## Taux d’accroissement entre $a$ et $a+h$ ⭐⭐
-
-**Barème : 4 points**
+### Taux d’accroissement entre $a$ et $a+h$
 
 Soit la fonction $f(x)=2x^2-x$.
 
@@ -72,11 +67,11 @@ Soit la fonction $f(x)=2x^2-x$.
 2. Simplifier l’expression obtenue. (1,5 point)
 3. Préciser ce que devient ce taux lorsque $h$ se rapproche de $0$. (1 point)
 
+## :star: :star: :star:
+
 ---
 
-## Nombre dérivé par définition ⭐⭐⭐
-
-**Barème : 5 points**
+### Nombre dérivé par définition
 
 Soit la fonction $f(x)=x^2$.
 
@@ -87,9 +82,7 @@ Soit la fonction $f(x)=x^2$.
 
 ---
 
-## Nombre dérivé en un point ⭐⭐⭐
-
-**Barème : 5 points**
+### Nombre dérivé en un point
 
 Soit la fonction $f(x)=x^2-3x+1$.
 
@@ -98,11 +91,11 @@ Soit la fonction $f(x)=x^2-3x+1$.
 3. Calculer la limite lorsque $h\to0$. (1 point)
 4. En déduire la valeur de $f'(1)$. (1 point)
 
+## :star: :star: :star: :star:
+
 ---
 
-## Interprétation géométrique du nombre dérivé ⭐⭐⭐⭐
-
-**Barème : 6 points**
+### Interprétation géométrique du nombre dérivé
 
 La courbe représentative d’une fonction $f$ est donnée ci-dessous :
 
@@ -112,4 +105,3 @@ La courbe représentative d’une fonction $f$ est donnée ci-dessous :
 2. Donner le signe du taux d’accroissement de $f$ entre $1$ et $2$. (1 point)
 3. Interpréter graphiquement la valeur de $f'(1)$. (1,5 point)
 4. Expliquer le lien entre le nombre dérivé en un point et la pente de la tangente. (2,5 points)
-
