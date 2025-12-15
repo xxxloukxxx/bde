@@ -2,90 +2,204 @@
 
 <!-- toc -->
 
-## Analyse d'une population étudiante ⭐⭐
+## :star:
 
-Dans une université de $8~000$ étudiants, $65$ % sont inscrits en licence. Parmi les étudiants de licence, $48$ % sont des femmes.
+### Élèves pratiquant un sport
 
-1. Calculer le nombre d'étudiants inscrits en licence. _($1$ point)_
-2. Calculer le nombre de femmes inscrites en licence. _($1$ point)_
-3. Quelle proportion représentent les femmes en licence parmi l'ensemble des étudiants de l'université ? _($1,5$ point)_
+Dans un collège, $40$ % des élèves sont inscrits à une activité sportive. Parmi eux, $25$ % pratiquent le football.
+
+1. Calculer la proportion d’élèves pratiquant le football dans l’ensemble du collège. _($1$ point)_
+2. Exprimer cette proportion en pourcentage. _($0,5$ point)_
 
 > **Correction :**
 >
-> 1. Nombre d'étudiants en licence : $8~000 \times 0,65 = 5~200$ étudiants
-> 2. Nombre de femmes en licence : $5~200 \times 0,48 = 2~496$ femmes
-> 3. Proportion de femmes en licence parmi tous les étudiants : $\dfrac{2~496}{8~000} = 0,312$ soit $31,2$ %
+> 1. $0,40 \times 0,25 = 0,10$
+> 2. $10$ %
 
 ---
 
-## Clientèle d'un magasin ⭐⭐
+### Abonnements numériques
 
-Un magasin a reçu $1~200$ clients en une semaine. Parmi eux, $55$ % ont effectué un achat. Parmi les clients ayant effectué un achat, $70$ % ont dépensé plus de $50$ euros.
+Dans une entreprise, $60$ % des salariés disposent d’un ordinateur portable. Parmi eux, $30$ % utilisent un logiciel de visioconférence.
 
-1. Calculer le nombre de clients ayant effectué un achat. _($1$ point)_
-2. Calculer le nombre de clients ayant dépensé plus de $50$ euros. _($1$ point)_
-3. Quelle proportion de l'ensemble des clients a dépensé plus de $50$ euros ? _($1,5$ point)_
-4. Parmi les clients n'ayant pas effectué d'achat, quelle proportion représentent-ils parmi tous les clients ? _($0,5$ point)_
+1. Calculer la proportion de salariés utilisant ce logiciel. _($1$ point)_
+2. Donner le résultat en pourcentage. _($0,5$ point)_
 
 > **Correction :**
 >
-> 1. Nombre de clients ayant acheté : $1~200 \times 0,55 = 660$ clients
-> 2. Nombre de clients ayant dépensé plus de $50$ euros : $660 \times 0,70 = 462$ clients
-> 3. Proportion de clients ayant dépensé plus de $50$ euros : $\dfrac{462}{1~200} = 0,385$ soit $38,5$ %
-> 4. Proportion de clients n'ayant pas acheté : $1 - 0,55 = 0,45$ soit $45$ %
+> 1. $0,60 \times 0,30 = 0,18$
+> 2. $18$ %
 
 ---
 
-## Abonnés d'une plateforme de streaming ⭐⭐⭐
+### Clients d’un magasin
 
-Une plateforme de streaming compte $15~000~000$ d'abonnés. Parmi eux, $72$ % regardent des séries régulièrement. Parmi les spectateurs de séries, $38$ % regardent principalement des séries policières.
+$50$ % des clients d’un magasin sont des femmes. Parmi elles, $40$ % ont effectué un achat le jour étudié.
 
-1. Calculer le nombre d'abonnés regardant des séries régulièrement. _($1$ point)_
-2. Calculer le nombre d'abonnés regardant principalement des séries policières. _($1$ point)_
-3. Quelle proportion de l'ensemble des abonnés regarde principalement des séries policières ? Arrondir à $0,1$ % près. _($1,5$ point)_
-4. Sachant que $45$ % des spectateurs de séries policières sont des hommes, calculer le nombre d'hommes regardant principalement ce type de séries. _($1$ point)_
+1. Calculer la proportion de clients ayant effectué un achat. _($1$ point)_
+2. Exprimer cette proportion en pourcentage. _($0,5$ point)_
 
 > **Correction :**
 >
-> 1. Nombre d'abonnés regardant des séries : $15~000~000 \times 0,72 = 10~800~000$ abonnés
-> 2. Nombre d'abonnés regardant des séries policières : $10~800~000 \times 0,38 = 4~104~000$ abonnés
-> 3. Proportion parmi tous les abonnés : $\dfrac{4~104~000}{15~000~000} = 0,2736$ soit $27,4$ %
-> 4. Nombre d'hommes : $4~104~000 \times 0,45 = 1~846~800$ hommes
+> 1. $0,50 \times 0,40 = 0,20$
+> 2. $20$ %
 
 ---
 
-## Visiteurs d'un site touristique ⭐⭐
+## :star: :star:
 
-Un site touristique accueille $24~000$ visiteurs pendant les vacances d'été. Parmi eux, $58$ % sont des touristes étrangers. Parmi les touristes étrangers, $35$ % viennent d'Allemagne.
+### Réussite scolaire
 
-1. Calculer le nombre de touristes étrangers. _($1$ point)_
-2. Calculer le nombre de touristes allemands. _($1$ point)_
-3. Quelle proportion de l'ensemble des visiteurs les touristes allemands représentent-ils ? _($1,5$ point)_
-4. Parmi les touristes allemands, $62$ % visitent le site pour la première fois. Combien de touristes allemands découvrent le site ? _($1$ point)_
+Dans un lycée, $70$ % des élèves sont admis en classe supérieure. Parmi les élèves admis, $60$ % passent avec mention.
+
+1. Calculer la proportion d’élèves passant avec mention. _($1$ point)_
+2. Exprimer cette proportion en pourcentage. _($1$ point)_
 
 > **Correction :**
 >
-> 1. Nombre de touristes étrangers : $24~000 \times 0,58 = 13~920$ touristes
-> 2. Nombre de touristes allemands : $13~920 \times 0,35 = 4~872$ touristes
-> 3. Proportion de touristes allemands : $\dfrac{4~872}{24~000} = 0,203$ soit $20,3$ %
-> 4. Nombre de touristes allemands en première visite : $4~872 \times 0,62 = 3~020,64 \approx 3~021$ touristes
+> 1. $0,70 \times 0,60 = 0,42$
+> 2. $42$ %
 
 ---
 
-## Élèves d'un établissement scolaire ⭐⭐⭐
+### Fréquentation d’un cinéma
 
-Un lycée compte $1~400$ élèves. $42$ % des élèves sont en filière générale. Parmi les élèves de la filière générale, $55$ % ont choisi la spécialité mathématiques. Parmi les élèves ayant choisi mathématiques, $48$ % sont des filles.
+$45$ % des spectateurs d’un cinéma ont moins de $25$ ans. Parmi eux, $80$ % viennent le week-end.
 
-1. Calculer le nombre d'élèves en filière générale. _($0,5$ point)_
-2. Calculer le nombre d'élèves ayant choisi la spécialité mathématiques. _($1$ point)_
-3. Calculer le nombre de filles ayant choisi mathématiques. _($1$ point)_
-4. Quelle proportion de l'ensemble des élèves du lycée les filles ayant choisi mathématiques représentent-elles ? Arrondir à $0,1$ % près. _($1,5$ point)_
-5. Quelle proportion les filles représentent-elles parmi les élèves de filière générale ayant choisi mathématiques ? _($0,5$ point)_
+1. Calculer la proportion de spectateurs de moins de $25$ ans venant le week-end. _($1$ point)_
+2. Donner le résultat en pourcentage. _($1$ point)_
 
 > **Correction :**
 >
-> 1. Nombre d'élèves en filière générale : $1~400 \times 0,42 = 588$ élèves
-> 2. Nombre d'élèves avec spécialité maths : $588 \times 0,55 = 323,4 \approx 323$ élèves
-> 3. Nombre de filles avec spécialité maths : $323 \times 0,48 = 155,04 \approx 155$ filles
-> 4. Proportion parmi tous les élèves : $\dfrac{155}{1~400} = 0,1107$ soit $11,1$ %
-> 5. Les filles représentent $48$ % des élèves de filière générale ayant choisi mathématiques (donnée de l'énoncé).
+> 1. $0,45 \times 0,80 = 0,36$
+> 2. $36$ %
+
+---
+
+### Utilisation d’un service en ligne
+
+$55$ % des utilisateurs d’un site ont un compte premium. Parmi eux, $40$ % utilisent l’application mobile.
+
+1. Calculer la proportion d’utilisateurs utilisant l’application mobile. _($1$ point)_
+2. Exprimer cette proportion en pourcentage. _($1$ point)_
+
+> **Correction :**
+>
+> 1. $0,55 \times 0,40 = 0,22$
+> 2. $22$ %
+
+---
+
+### Pratique sportive
+
+Dans une ville, $48$ % des habitants pratiquent un sport. Parmi eux, $35$ % pratiquent un sport collectif.
+
+1. Calculer la proportion d’habitants pratiquant un sport collectif. _($1$ point)_
+2. Exprimer cette proportion en pourcentage. _($1$ point)_
+
+> **Correction :**
+>
+> 1. $0,48 \times 0,35 = 0,168$
+> 2. $16,8$ %
+
+---
+
+## :star: :star: :star:
+
+### Étude de consommation
+
+$65$ % des foyers possèdent une voiture. Parmi ces foyers, $40$ % possèdent deux voitures.
+
+1. Calculer la proportion de foyers possédant deux voitures. _($1,5$ point)_
+2. Exprimer cette proportion en pourcentage. _($0,5$ point)_
+
+> **Correction :**
+>
+> 1. $0,65 \times 0,40 = 0,26$
+> 2. $26$ %
+
+---
+
+### Lecture numérique
+
+$72$ % des élèves utilisent un manuel numérique. Parmi eux, $75$ % l’utilisent quotidiennement.
+
+1. Calculer la proportion d’élèves utilisant quotidiennement un manuel numérique. _($1,5$ point)_
+2. Donner le résultat en pourcentage. _($0,5$ point)_
+
+> **Correction :**
+>
+> 1. $0,72 \times 0,75 = 0,54$
+> 2. $54$ %
+
+---
+
+### Transports scolaires
+
+$80$ % des élèves utilisent les transports scolaires. Parmi eux, $62$ % utilisent le bus.
+
+1. Calculer la proportion d’élèves utilisant le bus. _($1,5$ point)_
+2. Exprimer cette proportion en pourcentage. _($0,5$ point)_
+
+> **Correction :**
+>
+> 1. $0,80 \times 0,62 = 0,496$
+> 2. $49,6$ %
+
+---
+
+### Achats en ligne
+
+$58$ % des internautes font des achats en ligne. Parmi eux, $45$ % utilisent un smartphone.
+
+1. Calculer la proportion d’internautes achetant en ligne via un smartphone. _($1,5$ point)_
+2. Exprimer cette proportion en pourcentage. _($0,5$ point)_
+
+> **Correction :**
+>
+> 1. $0,58 \times 0,45 = 0,261$
+> 2. $26,1$ %
+
+---
+
+## :star: :star: :star: :star:
+
+### Étude de marché
+
+$75$ % des clients d’une entreprise sont fidèles. Parmi eux, $64$ % recommandent l’entreprise à leur entourage.
+
+1. Calculer la proportion de clients recommandant l’entreprise. _($2$ points)_
+2. Exprimer cette proportion en pourcentage. _($1$ point)_
+
+> **Correction :**
+>
+> 1. $0,75 \times 0,64 = 0,48$
+> 2. $48$ %
+
+---
+
+### Usage des réseaux sociaux
+
+$68$ % des adolescents utilisent un réseau social quotidiennement. Parmi eux, $70$ % publient du contenu au moins une fois par semaine.
+
+1. Calculer la proportion d’adolescents publiant régulièrement du contenu. _($2$ points)_
+2. Donner le résultat en pourcentage. _($1$ point)_
+
+> **Correction :**
+>
+> 1. $0,68 \times 0,70 = 0,476$
+> 2. $47,6$ %
+
+---
+
+### Consommation culturelle
+
+$62$ % des habitants d’une ville fréquentent une salle de cinéma. Parmi eux, $55$ % y vont au moins une fois par mois.
+
+1. Calculer la proportion d’habitants allant au cinéma au moins une fois par mois. _($2$ points)_
+2. Exprimer cette proportion en pourcentage. _($1$ point)_
+
+> **Correction :**
+>
+> 1. $0,62 \times 0,55 = 0,341$
+> 2. $34,1$ %
